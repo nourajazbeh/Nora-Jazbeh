@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nora</h1>
-<h3 align="center">A  backend and cloud developerin from Deutschland</h3>
+<h3 align="center">A passionate software developer focused on backend development and cloud technology</h3>
+
+<p align="center">
+  I'm a dedicated software developer with a focus on backend development and cloud technologies. My expertise lies in creating scalable and secure backend systems as well as leveraging cloud environments efficiently. I utilize technologies such as Kubernetes and CI/CD pipelines to deliver reliable and modern software solutions.
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
