@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, I'm Nora</h1>
-<h3 align="center">A passionate software developer focused on backend development and cloud technology</h3>
+<h1 align="center">Hi 👋, ich bin Nora</h1>
+<h3 align="center">Eine Junior Softwareentwicklerin aus Leidenschaft</h3>
 
 <p align="center">
-  I'm a dedicated software developer with a focus on backend development and cloud technologies. My expertise lies in creating scalable and secure backend systems as well as leveraging cloud environments efficiently. I utilize technologies such as Kubernetes and CI/CD pipelines to deliver reliable and modern software solutions.
+  Ich bin eine engagierte Junior Softwareentwicklerin mit einer Leidenschaft für Backend-Entwicklung und Cloud-Technologien. Meine Expertise liegt in der Erstellung skalierbarer und sicherer Backend-Systeme sowie in der effizienten Nutzung von Cloud-Umgebungen. Ich nutze Technologien wie Kubernetes und CI/CD-Pipelines, um zuverlässige und moderne Softwarelösungen bereitzustellen.
 </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="mailto:nourajazbeh@gmail.com">📧 nourajazbeh@gmail.com</a><br>
-  <a href="https://github.com/nourajazbeh">🔗 GitHub Profile</a>
+  <a href="https://github.com/nourajazbeh">🔗 GitHub-Profil</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Sprachen und Tools:</h3>
 <p align="left">
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
@@ -58,7 +58,11 @@
   <a href="https://www.php.net" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
   </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
 </p>
+
 
 ---
 
