@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, ich bin Nora</h1>
 <h3 align="center">Eine Junior Softwareentwicklerin aus Leidenschaft</h3>
 
-<p align="center">
-  Ich bin eine engagierte Junior Softwareentwicklerin mit einer Leidenschaft für Backend-Entwicklung und Cloud-Technologien. Meine Expertise liegt in der Erstellung skalierbarer und sicherer Backend-Systeme sowie in der effizienten Nutzung von Cloud-Umgebungen. Ich nutze Technologien wie Kubernetes und CI/CD-Pipelines, um zuverlässige und moderne Softwarelösungen bereitzustellen. Derzeit lerne ich Java und Spring Boot, um meine Fähigkeiten in der Entwicklung zu verbessern.
-</p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="mailto:nourajazbeh@gmail.com">📧 nourajazbeh@gmail.com</a><br>
