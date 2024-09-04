@@ -4,7 +4,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="mailto:nourajazbeh@gmail.com">📧 nourajazbeh@gmail.com</a><br>
-  <a href="https://github.com/nourajazbeh">🔗 GitHub-Profil</a>
 </p>
 
 <h3 align="left">Backend-Technologien:</h3>
