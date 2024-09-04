@@ -35,12 +35,18 @@
   </a>
 </p>
 
-<p align="left">🚀 Zurzeit lerne ich Java und Spring Boot. 💻</p>
+<p align="left">🚀 Zurzeit lerne ich Java, Spring Boot.💻</p>
 
 <h3 align="left">Frontend-Technologien:</h3>
 <p align="left">
   <a href="https://reactjs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
   </a>
 </p>
 
@@ -55,6 +61,9 @@
   <a href="https://www.terraform.io" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" width="40" height="40"/>
   </a>
+  <a href="https://argoproj.github.io/argo-cd/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/argocd/argocd-original-wordmark.svg" alt="ArgoCD" width="40" height="40"/>
+  </a>
   <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/>
   </a>
@@ -62,9 +71,8 @@
     <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" width="40" height="40"/>
   </a>
   <a href="https://prometheus.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="Prometheus" width="40" height="40"/>
-  </a>
-</p>
+    <img src="https://www.vectorlogo.zone/logos/prom
+
 
 <h3 align="left">Cloud-Technologien:</h3>
 <p align="left">
