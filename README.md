@@ -35,7 +35,7 @@
   </a>
 </p>
 
-<p align="left">🚀 Zurzeit lerne ich Java und Spring Boot, um meine Backend-Entwicklungsfähigkeiten zu erweitern. 💻</p>
+<p align="left">🚀 Zurzeit lerne ich Java und Spring Boot. 💻</p>
 
 <h3 align="left">Frontend-Technologien:</h3>
 <p align="left">
