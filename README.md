@@ -83,12 +83,5 @@
 
 
 
-## Projects
-
-- **CMS Backend Projekt**: Node.js, Kubernetes, AWS
-- **BudgetBook Backend**: Nest.js, Terraform, AWS
-- **MERN Estate Agent App**: MongoDB, Express, Kubernetes
-- **Healthcare Backend App**: Docker, Kubernetes, MongoDB
-
 
 
